@@ -1,0 +1,2 @@
+# managarApp
+React-native app 
